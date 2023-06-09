@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=http://www.mobkoi.co.jp/wp-content/uploads/2022/10/pexels-fauxels-3183177-1024x683.jpg">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "http://www.mobkoi.co.jp/wp-content/uploads/2022/10/pexels-fauxels-3183177-1024x683.jpg";
+		</script>
+
+		<p>You are being redirected to <a href="http://www.mobkoi.co.jp/wp-content/uploads/2022/10/pexels-fauxels-3183177-1024x683.jpg">http://www.mobkoi.co.jp/wp-content/uploads/2022/10/pexels-fauxels-3183177-1024x683.jpg</a></p>
+	</body>
+</html>
