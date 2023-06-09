@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Tp Clients</title>
-	<atom:link href="http://www.mobkoi.co.jp/theplus_clients/feed/" rel="self" type="application/rss+xml" />
-	<link>http://www.mobkoi.co.jp/</link>
+	<atom:link href="https://www.mobkoi.co.jp/theplus_clients/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.mobkoi.co.jp/</link>
 	<description></description>
 	<lastBuildDate>Mon, 31 Oct 2022 11:18:16 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	<generator>https://wordpress.org/?v=6.2.2</generator>
 
 <image>
-	<url>http://www.mobkoi.co.jp/wp-content/uploads/2022/08/cropped-Mobkoi_Favicon-150x150.png</url>
+	<url>https://www.mobkoi.co.jp/wp-content/uploads/2022/08/cropped-Mobkoi_Favicon-150x150.png</url>
 	<title>Tp Clients</title>
-	<link>http://www.mobkoi.co.jp/</link>
+	<link>https://www.mobkoi.co.jp/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>BBC World</title>
-		<link>http://www.mobkoi.co.jp/theplus_clients/bbc-world/</link>
+		<link>https://www.mobkoi.co.jp/theplus_clients/bbc-world/</link>
 		
 		<dc:creator><![CDATA[Daniel Crittenden]]></dc:creator>
 		<pubDate>Mon, 31 Oct 2022 11:18:16 +0000</pubDate>
-				<guid isPermaLink="false">http://www.mobkoi.co.jp/?post_type=theplus_clients#038;p=27624</guid>
+				<guid isPermaLink="false">https://www.mobkoi.co.jp/?post_type=theplus_clients#038;p=27624</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -43,11 +43,11 @@
 			</item>
 		<item>
 		<title>Bloomberg</title>
-		<link>http://www.mobkoi.co.jp/theplus_clients/bloomberg/</link>
+		<link>https://www.mobkoi.co.jp/theplus_clients/bloomberg/</link>
 		
 		<dc:creator><![CDATA[Daniel Crittenden]]></dc:creator>
 		<pubDate>Mon, 31 Oct 2022 11:17:46 +0000</pubDate>
-				<guid isPermaLink="false">http://www.mobkoi.co.jp/?post_type=theplus_clients#038;p=27622</guid>
+				<guid isPermaLink="false">https://www.mobkoi.co.jp/?post_type=theplus_clients#038;p=27622</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -57,11 +57,11 @@
 			</item>
 		<item>
 		<title>Bustle</title>
-		<link>http://www.mobkoi.co.jp/theplus_clients/bustle/</link>
+		<link>https://www.mobkoi.co.jp/theplus_clients/bustle/</link>
 		
 		<dc:creator><![CDATA[Daniel Crittenden]]></dc:creator>
 		<pubDate>Mon, 31 Oct 2022 11:17:22 +0000</pubDate>
-				<guid isPermaLink="false">http://www.mobkoi.co.jp/?post_type=theplus_clients#038;p=27620</guid>
+				<guid isPermaLink="false">https://www.mobkoi.co.jp/?post_type=theplus_clients#038;p=27620</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -71,11 +71,11 @@
 			</item>
 		<item>
 		<title>Forbes</title>
-		<link>http://www.mobkoi.co.jp/theplus_clients/forbes/</link>
+		<link>https://www.mobkoi.co.jp/theplus_clients/forbes/</link>
 		
 		<dc:creator><![CDATA[Daniel Crittenden]]></dc:creator>
 		<pubDate>Mon, 31 Oct 2022 11:16:53 +0000</pubDate>
-				<guid isPermaLink="false">http://www.mobkoi.co.jp/?post_type=theplus_clients#038;p=27618</guid>
+				<guid isPermaLink="false">https://www.mobkoi.co.jp/?post_type=theplus_clients#038;p=27618</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -85,11 +85,11 @@
 			</item>
 		<item>
 		<title>Reuters</title>
-		<link>http://www.mobkoi.co.jp/theplus_clients/reuters/</link>
+		<link>https://www.mobkoi.co.jp/theplus_clients/reuters/</link>
 		
 		<dc:creator><![CDATA[Daniel Crittenden]]></dc:creator>
 		<pubDate>Mon, 31 Oct 2022 11:16:30 +0000</pubDate>
-				<guid isPermaLink="false">http://www.mobkoi.co.jp/?post_type=theplus_clients#038;p=27616</guid>
+				<guid isPermaLink="false">https://www.mobkoi.co.jp/?post_type=theplus_clients#038;p=27616</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -99,11 +99,11 @@
 			</item>
 		<item>
 		<title>The Independant</title>
-		<link>http://www.mobkoi.co.jp/theplus_clients/the-independant/</link>
+		<link>https://www.mobkoi.co.jp/theplus_clients/the-independant/</link>
 		
 		<dc:creator><![CDATA[Daniel Crittenden]]></dc:creator>
 		<pubDate>Mon, 31 Oct 2022 11:16:02 +0000</pubDate>
-				<guid isPermaLink="false">http://www.mobkoi.co.jp/?post_type=theplus_clients#038;p=27614</guid>
+				<guid isPermaLink="false">https://www.mobkoi.co.jp/?post_type=theplus_clients#038;p=27614</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -113,11 +113,11 @@
 			</item>
 		<item>
 		<title>USA Today</title>
-		<link>http://www.mobkoi.co.jp/theplus_clients/usa-today/</link>
+		<link>https://www.mobkoi.co.jp/theplus_clients/usa-today/</link>
 		
 		<dc:creator><![CDATA[Daniel Crittenden]]></dc:creator>
 		<pubDate>Mon, 31 Oct 2022 11:15:02 +0000</pubDate>
-				<guid isPermaLink="false">http://www.mobkoi.co.jp/?post_type=theplus_clients#038;p=27612</guid>
+				<guid isPermaLink="false">https://www.mobkoi.co.jp/?post_type=theplus_clients#038;p=27612</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -127,11 +127,11 @@
 			</item>
 		<item>
 		<title>Wall Street Journal</title>
-		<link>http://www.mobkoi.co.jp/theplus_clients/wall-street-journal/</link>
+		<link>https://www.mobkoi.co.jp/theplus_clients/wall-street-journal/</link>
 		
 		<dc:creator><![CDATA[Daniel Crittenden]]></dc:creator>
 		<pubDate>Mon, 31 Oct 2022 11:14:21 +0000</pubDate>
-				<guid isPermaLink="false">http://www.mobkoi.co.jp/?post_type=theplus_clients#038;p=27610</guid>
+				<guid isPermaLink="false">https://www.mobkoi.co.jp/?post_type=theplus_clients#038;p=27610</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -141,7 +141,7 @@
 			</item>
 		<item>
 		<title>AP_Advertiser</title>
-		<link>http://www.mobkoi.co.jp/theplus_clients/ap_advertiser/</link>
+		<link>https://www.mobkoi.co.jp/theplus_clients/ap_advertiser/</link>
 		
 		<dc:creator><![CDATA[Daniel Crittenden]]></dc:creator>
 		<pubDate>Thu, 15 Sep 2022 11:59:59 +0000</pubDate>
@@ -155,7 +155,7 @@
 			</item>
 		<item>
 		<title>Dyson_Advertiser</title>
-		<link>http://www.mobkoi.co.jp/theplus_clients/dyson_advertiser/</link>
+		<link>https://www.mobkoi.co.jp/theplus_clients/dyson_advertiser/</link>
 		
 		<dc:creator><![CDATA[Daniel Crittenden]]></dc:creator>
 		<pubDate>Thu, 15 Sep 2022 11:59:40 +0000</pubDate>

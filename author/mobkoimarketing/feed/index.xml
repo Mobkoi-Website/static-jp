@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Marketing Team</title>
-	<atom:link href="http://www.mobkoi.co.jp/author/mobkoimarketing/feed/" rel="self" type="application/rss+xml" />
-	<link>http://www.mobkoi.co.jp/</link>
+	<atom:link href="https://www.mobkoi.co.jp/author/mobkoimarketing/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.mobkoi.co.jp/</link>
 	<description></description>
 	<lastBuildDate>Fri, 02 Jun 2023 02:13:03 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=6.2.2</generator>
 
 <image>
-	<url>http://www.mobkoi.co.jp/wp-content/uploads/2022/08/cropped-Mobkoi_Favicon-150x150.png</url>
+	<url>https://www.mobkoi.co.jp/wp-content/uploads/2022/08/cropped-Mobkoi_Favicon-150x150.png</url>
 	<title>Marketing Team</title>
-	<link>http://www.mobkoi.co.jp/</link>
+	<link>https://www.mobkoi.co.jp/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 

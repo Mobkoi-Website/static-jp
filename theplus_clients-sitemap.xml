@@ -1,107 +1,107 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://www.mobkoi.co.jp/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://www.mobkoi.co.jp/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://www.mobkoi.co.jp/theplus_clients/</loc>
+		<loc>https://www.mobkoi.co.jp/theplus_clients/</loc>
 		<lastmod>2022-10-31T11:18:16+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://www.mobkoi.co.jp/theplus_clients/bbc-world/</loc>
+		<loc>https://www.mobkoi.co.jp/theplus_clients/bbc-world/</loc>
 		<lastmod>2022-10-31T11:18:16+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://www.mobkoi.co.jp/theplus_clients/bloomberg/</loc>
+		<loc>https://www.mobkoi.co.jp/theplus_clients/bloomberg/</loc>
 		<lastmod>2022-10-31T11:17:46+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://www.mobkoi.co.jp/theplus_clients/bustle/</loc>
+		<loc>https://www.mobkoi.co.jp/theplus_clients/bustle/</loc>
 		<lastmod>2022-10-31T11:17:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://www.mobkoi.co.jp/theplus_clients/forbes/</loc>
+		<loc>https://www.mobkoi.co.jp/theplus_clients/forbes/</loc>
 		<lastmod>2022-10-31T11:16:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://www.mobkoi.co.jp/theplus_clients/reuters/</loc>
+		<loc>https://www.mobkoi.co.jp/theplus_clients/reuters/</loc>
 		<lastmod>2022-10-31T11:16:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://www.mobkoi.co.jp/theplus_clients/the-independant/</loc>
+		<loc>https://www.mobkoi.co.jp/theplus_clients/the-independant/</loc>
 		<lastmod>2022-10-31T11:16:02+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://www.mobkoi.co.jp/theplus_clients/usa-today/</loc>
+		<loc>https://www.mobkoi.co.jp/theplus_clients/usa-today/</loc>
 		<lastmod>2022-10-31T11:15:02+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://www.mobkoi.co.jp/theplus_clients/wall-street-journal/</loc>
+		<loc>https://www.mobkoi.co.jp/theplus_clients/wall-street-journal/</loc>
 		<lastmod>2022-10-31T11:14:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://www.mobkoi.co.jp/theplus_clients/vox_publisher/</loc>
+		<loc>https://www.mobkoi.co.jp/theplus_clients/vox_publisher/</loc>
 		<lastmod>2022-10-14T08:22:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://www.mobkoi.co.jp/theplus_clients/vice_publisher/</loc>
+		<loc>https://www.mobkoi.co.jp/theplus_clients/vice_publisher/</loc>
 		<lastmod>2022-10-14T08:22:38+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://www.mobkoi.co.jp/theplus_clients/volvo_advertiser/</loc>
+		<loc>https://www.mobkoi.co.jp/theplus_clients/volvo_advertiser/</loc>
 		<lastmod>2022-10-14T08:22:33+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://www.mobkoi.co.jp/theplus_clients/uber_advertiser/</loc>
+		<loc>https://www.mobkoi.co.jp/theplus_clients/uber_advertiser/</loc>
 		<lastmod>2022-10-14T08:22:29+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://www.mobkoi.co.jp/theplus_clients/politico_publisher/</loc>
+		<loc>https://www.mobkoi.co.jp/theplus_clients/politico_publisher/</loc>
 		<lastmod>2022-10-14T08:22:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://www.mobkoi.co.jp/theplus_clients/siemens_advertiser/</loc>
+		<loc>https://www.mobkoi.co.jp/theplus_clients/siemens_advertiser/</loc>
 		<lastmod>2022-10-14T08:22:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://www.mobkoi.co.jp/theplus_clients/bbc_publisher/</loc>
+		<loc>https://www.mobkoi.co.jp/theplus_clients/bbc_publisher/</loc>
 		<lastmod>2022-10-14T08:22:17+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://www.mobkoi.co.jp/theplus_clients/richmonte_advertiser/</loc>
+		<loc>https://www.mobkoi.co.jp/theplus_clients/richmonte_advertiser/</loc>
 		<lastmod>2022-10-14T08:22:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://www.mobkoi.co.jp/theplus_clients/hsbc_advertiser/</loc>
+		<loc>https://www.mobkoi.co.jp/theplus_clients/hsbc_advertiser/</loc>
 		<lastmod>2022-10-14T08:22:08+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://www.mobkoi.co.jp/theplus_clients/conde-nast_publisher/</loc>
+		<loc>https://www.mobkoi.co.jp/theplus_clients/conde-nast_publisher/</loc>
 		<lastmod>2022-10-14T08:22:02+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://www.mobkoi.co.jp/theplus_clients/espn_publisher/</loc>
+		<loc>https://www.mobkoi.co.jp/theplus_clients/espn_publisher/</loc>
 		<lastmod>2022-10-14T08:21:56+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://www.mobkoi.co.jp/theplus_clients/bloomberg_publisher/</loc>
+		<loc>https://www.mobkoi.co.jp/theplus_clients/bloomberg_publisher/</loc>
 		<lastmod>2022-10-14T08:21:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://www.mobkoi.co.jp/theplus_clients/nestle_advertiser/</loc>
+		<loc>https://www.mobkoi.co.jp/theplus_clients/nestle_advertiser/</loc>
 		<lastmod>2022-10-14T08:21:49+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://www.mobkoi.co.jp/theplus_clients/fb_advertiser/</loc>
+		<loc>https://www.mobkoi.co.jp/theplus_clients/fb_advertiser/</loc>
 		<lastmod>2022-10-14T08:21:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://www.mobkoi.co.jp/theplus_clients/dyson_advertiser/</loc>
+		<loc>https://www.mobkoi.co.jp/theplus_clients/dyson_advertiser/</loc>
 		<lastmod>2022-10-14T08:21:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://www.mobkoi.co.jp/theplus_clients/ap_advertiser/</loc>
+		<loc>https://www.mobkoi.co.jp/theplus_clients/ap_advertiser/</loc>
 		<lastmod>2022-10-14T08:21:35+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://www.mobkoi.co.jp/theplus_clients/26041/</loc>
+		<loc>https://www.mobkoi.co.jp/theplus_clients/26041/</loc>
 		<lastmod>2022-09-15T11:57:59+00:00</lastmod>
 	</url>
 </urlset>

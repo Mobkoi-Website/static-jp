@@ -9,8 +9,8 @@
 
 <channel>
 	<title>TP Team Member</title>
-	<atom:link href="http://www.mobkoi.co.jp/theplus_team_member/feed/" rel="self" type="application/rss+xml" />
-	<link>http://www.mobkoi.co.jp/</link>
+	<atom:link href="https://www.mobkoi.co.jp/theplus_team_member/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.mobkoi.co.jp/</link>
 	<description></description>
 	<lastBuildDate>Fri, 07 Oct 2022 09:43:59 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.2.2</generator>
 
 <image>
-	<url>http://www.mobkoi.co.jp/wp-content/uploads/2022/08/cropped-Mobkoi_Favicon-150x150.png</url>
+	<url>https://www.mobkoi.co.jp/wp-content/uploads/2022/08/cropped-Mobkoi_Favicon-150x150.png</url>
 	<title>TP Team Member</title>
-	<link>http://www.mobkoi.co.jp/</link>
+	<link>https://www.mobkoi.co.jp/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Ben Peterson</title>
-		<link>http://www.mobkoi.co.jp/theplus_team_member/ben-peterson/</link>
+		<link>https://www.mobkoi.co.jp/theplus_team_member/ben-peterson/</link>
 		
 		<dc:creator><![CDATA[Marketing Team]]></dc:creator>
 		<pubDate>Mon, 01 Aug 2022 10:51:25 +0000</pubDate>
@@ -43,7 +43,7 @@
 			</item>
 		<item>
 		<title>Antoine Katz</title>
-		<link>http://www.mobkoi.co.jp/theplus_team_member/antoine-katz/</link>
+		<link>https://www.mobkoi.co.jp/theplus_team_member/antoine-katz/</link>
 		
 		<dc:creator><![CDATA[Marketing Team]]></dc:creator>
 		<pubDate>Mon, 01 Aug 2022 10:50:00 +0000</pubDate>
@@ -57,7 +57,7 @@
 			</item>
 		<item>
 		<title>Marco Cancelliere</title>
-		<link>http://www.mobkoi.co.jp/theplus_team_member/marco-cancelliere/</link>
+		<link>https://www.mobkoi.co.jp/theplus_team_member/marco-cancelliere/</link>
 		
 		<dc:creator><![CDATA[Marketing Team]]></dc:creator>
 		<pubDate>Mon, 01 Aug 2022 10:49:21 +0000</pubDate>
@@ -71,7 +71,7 @@
 			</item>
 		<item>
 		<title>Philip Tabet</title>
-		<link>http://www.mobkoi.co.jp/theplus_team_member/philip-tabet/</link>
+		<link>https://www.mobkoi.co.jp/theplus_team_member/philip-tabet/</link>
 		
 		<dc:creator><![CDATA[Marketing Team]]></dc:creator>
 		<pubDate>Mon, 01 Aug 2022 10:48:40 +0000</pubDate>
@@ -85,7 +85,7 @@
 			</item>
 		<item>
 		<title>Sabine Fischbach-Neumann</title>
-		<link>http://www.mobkoi.co.jp/theplus_team_member/sabine-fischbach-neumann/</link>
+		<link>https://www.mobkoi.co.jp/theplus_team_member/sabine-fischbach-neumann/</link>
 		
 		<dc:creator><![CDATA[Marketing Team]]></dc:creator>
 		<pubDate>Mon, 01 Aug 2022 10:48:01 +0000</pubDate>
@@ -99,7 +99,7 @@
 			</item>
 		<item>
 		<title>Victoire Le Camus</title>
-		<link>http://www.mobkoi.co.jp/theplus_team_member/victoire-le-camus/</link>
+		<link>https://www.mobkoi.co.jp/theplus_team_member/victoire-le-camus/</link>
 		
 		<dc:creator><![CDATA[Marketing Team]]></dc:creator>
 		<pubDate>Mon, 01 Aug 2022 10:47:19 +0000</pubDate>
@@ -113,7 +113,7 @@
 			</item>
 		<item>
 		<title>Shane Glass</title>
-		<link>http://www.mobkoi.co.jp/theplus_team_member/shane-glass/</link>
+		<link>https://www.mobkoi.co.jp/theplus_team_member/shane-glass/</link>
 		
 		<dc:creator><![CDATA[Marketing Team]]></dc:creator>
 		<pubDate>Mon, 01 Aug 2022 10:46:33 +0000</pubDate>
@@ -127,7 +127,7 @@
 			</item>
 		<item>
 		<title>Caroline Wilkinson</title>
-		<link>http://www.mobkoi.co.jp/theplus_team_member/caroline-wilkinson/</link>
+		<link>https://www.mobkoi.co.jp/theplus_team_member/caroline-wilkinson/</link>
 		
 		<dc:creator><![CDATA[Marketing Team]]></dc:creator>
 		<pubDate>Mon, 01 Aug 2022 10:17:13 +0000</pubDate>
@@ -141,7 +141,7 @@
 			</item>
 		<item>
 		<title>Toby Doig</title>
-		<link>http://www.mobkoi.co.jp/theplus_team_member/toby-doig/</link>
+		<link>https://www.mobkoi.co.jp/theplus_team_member/toby-doig/</link>
 		
 		<dc:creator><![CDATA[Marketing Team]]></dc:creator>
 		<pubDate>Mon, 01 Aug 2022 10:15:42 +0000</pubDate>
@@ -155,7 +155,7 @@
 			</item>
 		<item>
 		<title>Chris Davis</title>
-		<link>http://www.mobkoi.co.jp/theplus_team_member/simon-reed/</link>
+		<link>https://www.mobkoi.co.jp/theplus_team_member/simon-reed/</link>
 		
 		<dc:creator><![CDATA[Marketing Team]]></dc:creator>
 		<pubDate>Mon, 01 Aug 2022 10:14:43 +0000</pubDate>
