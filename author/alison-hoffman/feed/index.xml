@@ -12,7 +12,7 @@
 	<atom:link href="https://www.mobkoi.co.jp/author/alison-hoffman/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.mobkoi.co.jp/</link>
 	<description></description>
-	<lastBuildDate>Fri, 02 Jun 2023 00:53:55 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 21 Jun 2023 14:55:29 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,7 +28,7 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>3 Ways to Bring Your Brand to Life Through Immersive Mobile Experiences</title>
+		<title>没入型モバイル体験でブランドに命を吹き込む3つの方法</title>
 		<link>https://www.mobkoi.co.jp/benefits-of-mobile-brand-experiences/</link>
 		
 		<dc:creator><![CDATA[Alison Hoffman - Marketing Manager]]></dc:creator>
@@ -38,7 +38,7 @@
 		<category><![CDATA[ブログ]]></category>
 		<guid isPermaLink="false">https://www.mobkoi.co.jp/?p=28555</guid>
 
-					<description><![CDATA[Immersive mobile experiences help consumers engage with your brand. Learn more about how to create a memorable brand experience with these examples.]]></description>
+					<description><![CDATA[没入感のあるモバイル体験は、消費者のブランドへの関心を高めます。これらの事例を参考に「記憶に残るブランド体験」の作り方について詳しくご紹介します。]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="28555" class="elementor elementor-28555">
 									<section class="elementor-section elementor-top-section elementor-element elementor-element-b8b27b8 elementor-section-height-min-height elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="b8b27b8" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
 							<div class="elementor-background-overlay"></div>
@@ -56,8 +56,8 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-260c269 elementor-widget elementor-widget-heading" data-id="260c269" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.13.3 - 28-05-2023 */
-.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">3 Ways to Bring Your Brand to Life Through Immersive Mobile Experiences</h2>		</div>
+			<style>/*! elementor - v3.14.0 - 26-06-2023 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">没入型モバイル体験でブランドに命を吹き込む3つの方法</h2>		</div>
 				</div>
 				<section class="elementor-section elementor-inner-section elementor-element elementor-element-44151270 elementor-section-content-middle elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="44151270" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
@@ -78,7 +78,7 @@
 				<div class="elementor-element elementor-element-2c5dafb elementor-mobile-align-left elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="2c5dafb" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://www.mobkoi.co.jp/resource_hub" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-xs" href="https://www.mobkoi.co.jp/resource_hub">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">ブログ メインページ</span>
 		</span>
@@ -156,7 +156,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-4364047 elementor-absolute elementor-widget elementor-widget-image" data-id="4364047" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;motion_fx_translateY_effect&quot;:&quot;yes&quot;,&quot;motion_fx_translateY_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1,&quot;sizes&quot;:[]},&quot;motion_fx_devices&quot;:[&quot;desktop&quot;,&quot;tablet&quot;],&quot;motion_fx_translateY_affectedRange&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:0,&quot;end&quot;:100}}}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.13.3 - 28-05-2023 */
+			<style>/*! elementor - v3.14.0 - 26-06-2023 */
 .elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img decoding="async" width="900" height="900" src="https://www.mobkoi.co.jp/wp-content/uploads/2023/01/Van-Goth-Exhibition_Attention_Blog.png" class="attachment-large size-large wp-image-28570" alt="" srcset="https://www.mobkoi.co.jp/wp-content/uploads/2023/01/Van-Goth-Exhibition_Attention_Blog.png 900w, https://www.mobkoi.co.jp/wp-content/uploads/2023/01/Van-Goth-Exhibition_Attention_Blog-300x300.png 300w, https://www.mobkoi.co.jp/wp-content/uploads/2023/01/Van-Goth-Exhibition_Attention_Blog-150x150.png 150w, https://www.mobkoi.co.jp/wp-content/uploads/2023/01/Van-Goth-Exhibition_Attention_Blog-768x768.png 768w, https://www.mobkoi.co.jp/wp-content/uploads/2023/01/Van-Goth-Exhibition_Attention_Blog-700x700.png 700w, https://www.mobkoi.co.jp/wp-content/uploads/2023/01/Van-Goth-Exhibition_Attention_Blog-650x650.png 650w, https://www.mobkoi.co.jp/wp-content/uploads/2023/01/Van-Goth-Exhibition_Attention_Blog-1300x1300.png 1300w" sizes="(max-width: 900px) 100vw, 900px" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-3b42c32 elementor-absolute elementor-widget elementor-widget-image" data-id="3b42c32" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;motion_fx_translateY_effect&quot;:&quot;yes&quot;,&quot;motion_fx_devices&quot;:[&quot;desktop&quot;,&quot;tablet&quot;],&quot;motion_fx_translateY_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:4,&quot;sizes&quot;:[]},&quot;motion_fx_translateY_affectedRange&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:0,&quot;end&quot;:100}}}" data-widget_type="image.default">
@@ -198,7 +198,7 @@
 				</div>
 				<div class="elementor-element elementor-element-050cbda elementor-widget elementor-widget-counter" data-id="050cbda" data-element_type="widget" data-widget_type="counter.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.13.3 - 28-05-2023 */
+			<style>/*! elementor - v3.14.0 - 26-06-2023 */
 .elementor-counter .elementor-counter-number-wrapper{display:flex;font-size:69px;font-weight:600;line-height:1}.elementor-counter .elementor-counter-number-prefix,.elementor-counter .elementor-counter-number-suffix{flex-grow:1;white-space:pre-wrap}.elementor-counter .elementor-counter-number-prefix{text-align:right}.elementor-counter .elementor-counter-number-suffix{text-align:left}.elementor-counter .elementor-counter-title{text-align:center;font-size:19px;font-weight:400;line-height:2.5}</style>		<div class="elementor-counter">
 			<div class="elementor-counter-number-wrapper">
 				<span class="elementor-counter-number-prefix"></span>
@@ -254,12 +254,12 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-85cf7d5 e-transform elementor-widget elementor-widget-tp-video-player" data-id="85cf7d5" data-element_type="widget" data-settings="{&quot;_transform_scale_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.020000000000000017763568394002504646778106689453125,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="tp-video-player.default">
 				<div class="elementor-widget-container">
-			<div class="pt_plus_video-box-shadow video_player64835d987e1c3  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64835d987e1c3" src="https://player.vimeo.com/video/794441177?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
+			<div class="pt_plus_video-box-shadow video_player649aeeb3db4fc  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player649aeeb3db4fc" src="https://player.vimeo.com/video/794441177?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-d4893b7 elementor-align-center elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-button" data-id="d4893b7" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="http://mobkoi-uk.celtra.com/preview/0d017fea#overrides.deviceInfo.deviceType=Phone" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-xs" href="http://mobkoi-uk.celtra.com/preview/0d017fea#overrides.deviceInfo.deviceType=Phone" target="_blank" rel="noopener">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">VIEW AD IN ACTION</span>
 		</span>
@@ -293,12 +293,12 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-9d16795 e-transform elementor-widget elementor-widget-tp-video-player" data-id="9d16795" data-element_type="widget" data-settings="{&quot;_transform_scale_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.020000000000000017763568394002504646778106689453125,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="tp-video-player.default">
 				<div class="elementor-widget-container">
-			<div class="pt_plus_video-box-shadow video_player64835d98847f2  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64835d98847f2" src="https://player.vimeo.com/video/794455154?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
+			<div class="pt_plus_video-box-shadow video_player649aeeb3e1b1d  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player649aeeb3e1b1d" src="https://player.vimeo.com/video/794455154?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-144de61 elementor-align-center elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-button" data-id="144de61" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="http://mobkoi-uk.celtra.com/preview/d0417096?rp.useFullWidth=1&#038;overrides.deviceInfo.deviceType=Phone&#038;fromQr=1#overrides.deviceInfo.deviceType=Phone" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-xs" href="http://mobkoi-uk.celtra.com/preview/d0417096?rp.useFullWidth=1&#038;overrides.deviceInfo.deviceType=Phone&#038;fromQr=1#overrides.deviceInfo.deviceType=Phone" target="_blank" rel="noopener">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">実際の広告を閲覧</span>
 		</span>
@@ -317,7 +317,7 @@
 				<div class="elementor-element elementor-element-59e1074 elementor-align-left elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="59e1074" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="http://mobkoi-uk.celtra.com/preview/4e89a97f?overrides.deviceInfo.deviceType=Phone#overrides.deviceInfo.deviceType=Phone" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="http://mobkoi-uk.celtra.com/preview/4e89a97f?overrides.deviceInfo.deviceType=Phone#overrides.deviceInfo.deviceType=Phone" target="_blank" rel="noopener">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">CTR: 0.31% - 一般基準値の3.1倍</span>
 		</span>
@@ -328,7 +328,7 @@
 				<div class="elementor-element elementor-element-0871e39 elementor-align-left elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="0871e39" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="http://mobkoi-uk.celtra.com/preview/4e89a97f?overrides.deviceInfo.deviceType=Phone#overrides.deviceInfo.deviceType=Phone" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="http://mobkoi-uk.celtra.com/preview/4e89a97f?overrides.deviceInfo.deviceType=Phone#overrides.deviceInfo.deviceType=Phone" target="_blank" rel="noopener">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">広告の見易さ: 75% - 一般基準値の1.3倍</span>
 		</span>
@@ -339,7 +339,7 @@
 				<div class="elementor-element elementor-element-68ee94e elementor-align-left elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="68ee94e" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="http://mobkoi-uk.celtra.com/preview/4e89a97f?overrides.deviceInfo.deviceType=Phone#overrides.deviceInfo.deviceType=Phone" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="http://mobkoi-uk.celtra.com/preview/4e89a97f?overrides.deviceInfo.deviceType=Phone#overrides.deviceInfo.deviceType=Phone" target="_blank" rel="noopener">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">広告滞在時間 (秒): 17秒 - 一般基準値の5.7倍</span>
 		</span>
@@ -350,7 +350,7 @@
 				<div class="elementor-element elementor-element-15ba5d3 elementor-align-left elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="15ba5d3" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="http://mobkoi-uk.celtra.com/preview/4e89a97f?overrides.deviceInfo.deviceType=Phone#overrides.deviceInfo.deviceType=Phone" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="http://mobkoi-uk.celtra.com/preview/4e89a97f?overrides.deviceInfo.deviceType=Phone#overrides.deviceInfo.deviceType=Phone" target="_blank" rel="noopener">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">エンゲージメント: 7.06% - 一般基準値の23.5倍</span>
 		</span>
@@ -394,12 +394,12 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-99b354f e-transform elementor-widget elementor-widget-tp-video-player" data-id="99b354f" data-element_type="widget" data-settings="{&quot;_transform_scale_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.020000000000000017763568394002504646778106689453125,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="tp-video-player.default">
 				<div class="elementor-widget-container">
-			<div class="pt_plus_video-box-shadow video_player64835d98929e5  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64835d98929e5" src="https://player.vimeo.com/video/794084021?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
+			<div class="pt_plus_video-box-shadow video_player649aeeb3ef928  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player649aeeb3ef928" src="https://player.vimeo.com/video/794084021?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-5671213 elementor-align-center elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-button" data-id="5671213" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="http://mobkoi-uk.celtra.com/preview/c94d67ae?rp.useFullWidth=1&#038;overrides.deviceInfo.deviceType=Phone&#038;fromQr=1#overrides.deviceInfo.deviceType=Phone" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-xs" href="http://mobkoi-uk.celtra.com/preview/c94d67ae?rp.useFullWidth=1&#038;overrides.deviceInfo.deviceType=Phone&#038;fromQr=1#overrides.deviceInfo.deviceType=Phone" target="_blank" rel="noopener">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">実際の広告を閲覧</span>
 		</span>
@@ -417,12 +417,12 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-611c1c9 e-transform elementor-widget elementor-widget-tp-video-player" data-id="611c1c9" data-element_type="widget" data-settings="{&quot;_transform_scale_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.020000000000000017763568394002504646778106689453125,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="tp-video-player.default">
 				<div class="elementor-widget-container">
-			<div class="pt_plus_video-box-shadow video_player64835d9895fec  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64835d9895fec" src="https://player.vimeo.com/video/794444481?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
+			<div class="pt_plus_video-box-shadow video_player649aeeb3f2faf  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player649aeeb3f2faf" src="https://player.vimeo.com/video/794444481?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-63080a1 elementor-align-center elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-button" data-id="63080a1" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="http://mobkoi-uk.celtra.com/preview/4e89a97f?overrides.deviceInfo.deviceType=Phone#overrides.deviceInfo.deviceType=Phone" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-xs" href="http://mobkoi-uk.celtra.com/preview/4e89a97f?overrides.deviceInfo.deviceType=Phone#overrides.deviceInfo.deviceType=Phone" target="_blank" rel="noopener">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">実際の広告を閲覧</span>
 		</span>
@@ -539,7 +539,7 @@
 				<div class="elementor-element elementor-element-795e120 elementor-align-center e-transform elementor-widget elementor-widget-button" data-id="795e120" data-element_type="widget" data-settings="{&quot;_transform_translateX_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:-5,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="mailto:sales@mobkoi.com" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-xs" href="mailto:sales@mobkoi.com">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">営業担当に連絡をする</span>
 		</span>
@@ -574,7 +574,7 @@
 		
 			</item>
 		<item>
-		<title>Stop the Scroll: How to Win Attention on Mobile</title>
+		<title>スクロールを一瞬止める：モバイル広告で消費者の気を引き止めるには</title>
 		<link>https://www.mobkoi.co.jp/how-to-stop-the-scroll-and-win-the-attention-on-mobile/</link>
 		
 		<dc:creator><![CDATA[Alison Hoffman - Marketing Manager]]></dc:creator>
@@ -583,7 +583,7 @@
 		<category><![CDATA[ブログ]]></category>
 		<guid isPermaLink="false">https://www.mobkoi.co.jp/?p=28003</guid>
 
-					<description><![CDATA[In a relatively short time, mobile devices have become ubiquitous and mobile usage has transformed into an all-consuming experience. Today, the estimated time spent on mobile in the US is up to 4 hours and 29 minutes.]]></description>
+					<description><![CDATA[生活から切り離せなくなったモバイルデバイスは、今やすべてを消費する媒体に。現在、米国ではスマホに費やす時間は1日の中で4時間29分と推定されています。]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="28003" class="elementor elementor-28003">
 									<section class="elementor-section elementor-top-section elementor-element elementor-element-b8b27b8 elementor-section-height-min-height elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="b8b27b8" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
 							<div class="elementor-background-overlay"></div>
@@ -601,7 +601,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-260c269 elementor-widget elementor-widget-heading" data-id="260c269" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Stop the Scroll: How to Win Attention on Mobile</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">スクロールを一瞬止める：モバイル広告で消費者の気を引き止めるには</h2>		</div>
 				</div>
 				<section class="elementor-section elementor-inner-section elementor-element elementor-element-44151270 elementor-section-content-middle elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="44151270" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
@@ -622,7 +622,7 @@
 				<div class="elementor-element elementor-element-2c5dafb elementor-mobile-align-left elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="2c5dafb" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://www.mobkoi.co.jp/resource_hub" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-xs" href="https://www.mobkoi.co.jp/resource_hub">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">BLOG HOME</span>
 		</span>
@@ -642,17 +642,17 @@
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-5fbe5aa" data-id="5fbe5aa" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-6def4e8 elementor-widget elementor-widget-tp-smooth-scroll" data-id="6def4e8" data-element_type="widget" data-widget_type="tp-smooth-scroll.default">
+								<div class="elementor-element elementor-element-be00231 text-left text--mobileleft elementor-widget elementor-widget-tp-adv-text-block" data-id="be00231" data-element_type="widget" data-widget_type="tp-adv-text-block.default">
+				<div class="elementor-widget-container">
+			<div class="pt-plus-text-block-wrapper" ><div class="text_block_parallax"><div class="pt_plus_adv_text_block " ><div class="text-content-block"><p><span style="font-weight: 400">比較的短期間のうちに、モバイルデバイスはユビキタスになり、モバイルの使用はすべてを消費する体験に変貌しました。現在、米国ではモバイルに費やす時間は最大4時間29分と推定されています。 </span><a href="https://www.insiderintelligence.com/insights/mobile-users-smartphone-usage/" target="_blank" rel="noopener"><span style="font-weight: 400">Insider Intelligence社によると</span></a>、2023年にはメディア利用時間全体の35％をモバイルが占めるようになるといいます。</p><p>この統計結果は驚異的で、メッセージは明確です。消費者は携帯電話で生活し、極端なコンテンツ過多を経験しているのです。これは広告主にとってどのような意味を持つのでしょうか？Advertising Week NYCのセッションから、スクープとスクロールを止める方法についての重要な提案をご覧ください。</p></div></div></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-6def4e8 elementor-widget elementor-widget-tp-smooth-scroll" data-id="6def4e8" data-element_type="widget" data-widget_type="tp-smooth-scroll.default">
 				<div class="elementor-widget-container">
 			<div class="plus-smooth-scroll" data-frameRate="150" data-animationTime="1000" data-stepSize="100" data-pulseAlgorithm="1" data-pulseScale="4" data-pulseNormalize="1" data-accelerationDelta="50" data-accelerationMax="3" data-keyboardSupport="1" data-arrowScroll="50" data-touchpadSupport="0" data-fixedBackground="1"  data-tablet-off="yes" data-basicdata= "{&quot;Browsers&quot;:[]}" ></div>		</div>
 				</div>
-				<div class="elementor-element elementor-element-be00231 text-left text--mobileleft elementor-widget elementor-widget-tp-adv-text-block" data-id="be00231" data-element_type="widget" data-widget_type="tp-adv-text-block.default">
-				<div class="elementor-widget-container">
-			<div class="pt-plus-text-block-wrapper" ><div class="text_block_parallax"><div class="pt_plus_adv_text_block " ><div class="text-content-block"><p><span style="font-weight: 400">In a relatively short time, mobile devices have become ubiquitous and mobile usage has transformed into an all-consuming experience. </span><span style="font-weight: 400">Today, the estimated time spent on mobile in the US is up to 4 hours and 29 minutes.  According to </span><a href="https://www.insiderintelligence.com/insights/mobile-users-smartphone-usage/" target="_blank" rel="noopener"><span style="font-weight: 400">Insider Intelligence</span></a><span style="font-weight: 400">, mobile usage will account for 35% of total media time in 2023. <br /><br /></span><span style="font-weight: 400">The statistics are staggering and the message is clear. Consumers are living on their phones and experiencing extreme content overload. What does this mean for advertisers? </span><span style="font-weight: 400">Read on to get the scoop and key recommendations on how to stop the scroll from our session during Advertising Week NYC. </span></p></div></div></div></div>		</div>
-				</div>
 				<div class="elementor-element elementor-element-6e5fe49 elementor-widget elementor-widget-video" data-id="6e5fe49" data-element_type="widget" data-settings="{&quot;video_type&quot;:&quot;vimeo&quot;,&quot;show_image_overlay&quot;:&quot;yes&quot;,&quot;image_overlay&quot;:{&quot;url&quot;:&quot;https:\/\/www.mobkoi.co.jp\/wp-content\/uploads\/2022\/12\/Advertising-Week_Video-2.png&quot;,&quot;id&quot;:28083,&quot;size&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;source&quot;:&quot;library&quot;}}" data-widget_type="video.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.13.3 - 28-05-2023 */
+			<style>/*! elementor - v3.14.0 - 26-06-2023 */
 .elementor-widget-video .elementor-widget-container{overflow:hidden;transform:translateZ(0)}.elementor-widget-video .elementor-wrapper{aspect-ratio:var(--video-aspect-ratio)}.elementor-widget-video .elementor-wrapper iframe,.elementor-widget-video .elementor-wrapper video{height:100%;width:100%;display:flex;border:none;background-color:#000}@supports not (aspect-ratio:1/1){.elementor-widget-video .elementor-wrapper{position:relative;overflow:hidden;height:0;padding-bottom:calc(100% / var(--video-aspect-ratio))}.elementor-widget-video .elementor-wrapper iframe,.elementor-widget-video .elementor-wrapper video{position:absolute;top:0;right:0;bottom:0;left:0}}.elementor-widget-video .elementor-open-inline .elementor-custom-embed-image-overlay{position:absolute;top:0;left:0;width:100%;height:100%;background-size:cover;background-position:50%}.elementor-widget-video .elementor-custom-embed-image-overlay{cursor:pointer;text-align:center}.elementor-widget-video .elementor-custom-embed-image-overlay:hover .elementor-custom-embed-play i{opacity:1}.elementor-widget-video .elementor-custom-embed-image-overlay img{display:block;width:100%}.elementor-widget-video .e-hosted-video .elementor-video{-o-object-fit:cover;object-fit:cover}.e-con-inner>.elementor-widget-video,.e-con>.elementor-widget-video{width:var(--container-widget-width);--flex-grow:var(--container-widget-flex-grow)}</style>		<div class="elementor-wrapper elementor-open-inline">
 			<iframe class="elementor-video-iframe" allowfullscreen title="vimeo Video Player" src="https://player.vimeo.com/video/773702498?color&amp;autopause=0&amp;loop=0&amp;muted=0&amp;title=1&amp;portrait=1&amp;byline=1#t="></iframe>				<div class="elementor-custom-embed-image-overlay" style="background-image: url(https://www.mobkoi.co.jp/wp-content/uploads/2022/12/Advertising-Week_Video-2.png);">
 																<div class="elementor-custom-embed-play" role="button" aria-label="Play Video" tabindex="0">
@@ -672,12 +672,12 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-e966bf0 elementor-widget elementor-widget-heading" data-id="e966bf0" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">The Takeaway: People don’t ignore all ads, they ignore <i>bad</i> ads. 
+			<h2 class="elementor-heading-title elementor-size-default">結論: 人はすべての広告を無視するのではなく、質の悪い広告を無視するのだ
 </h2>		</div>
 				</div>
 				<div class="elementor-element elementor-element-6607345 text-left text--mobileleft elementor-widget elementor-widget-tp-adv-text-block" data-id="6607345" data-element_type="widget" data-widget_type="tp-adv-text-block.default">
 				<div class="elementor-widget-container">
-			<div class="pt-plus-text-block-wrapper" ><div class="text_block_parallax"><div class="pt_plus_adv_text_block " ><div class="text-content-block"><p><span style="font-weight: 400">A 2019 </span><a href="https://www.marketingweek.com/mark-ritson-people-hate-ads/" target="_blank" rel="noopener"><span style="font-weight: 400">Marketing Week</span></a> <span style="font-weight: 400">study conducted in the UK found that only 11% of the population surveyed said that they liked ads. The other 89% either said they didn’t really care or they simply disliked them. To say it’s apparent that consumers have had enough of the standard  banner ad is an understatement. What this study did not observe, however, was how people perceive standard ads compared to more innovative and immersive ad experiences. <br /><br /></span><span style="font-weight: 400">During the Adweek session, our CEO Suzanne Spence presented findings from a recent study we conducted with Lumen Research. Not surprisingly, the study found that people viewed full-screen, interactive mobile ads 3x longer than standard mobile display ads. Brand recall rates for the full-screen ads were also 3-4x the mobile display norm.</span><span style="font-weight: 400"> <br /><br /></span><span style="font-weight: 400">With today’s technology, advertisers </span><i><span style="font-weight: 400">can </span></i><span style="font-weight: 400">create better ad experiences that lead to higher attention, longer engagement, and more meaningful connections between brands and people. </span><span style="font-weight: 400"> </span></p></div></div></div></div>		</div>
+			<div class="pt-plus-text-block-wrapper" ><div class="text_block_parallax"><div class="pt_plus_adv_text_block " ><div class="text-content-block"><p><span style="font-weight: 400">2019年に実施された </span><a href="https://www.marketingweek.com/mark-ritson-people-hate-ads/" target="_blank" rel="noopener"><span style="font-weight: 400">Marketing Weekの調査</span></a> によると、調査対象者のうち「広告が好き」と答えた人はわずか11%でした。残りの89%は、「あまり気にならない」か「単に嫌い」と回答しています。消費者が標準的なバナー広告に飽きたというのは控えめな表現です。しかし、この調査では、人々が標準的な広告を、より革新的で没入感のある広告体験と比較してどのように受け止めているかについては、観察されていません。</p><p>Adweekのセッションでは、当社のCEOであるSuzanne Spenceが、Lumen Research社と共同で実施した最近の調査結果を発表しました。その結果、人々はフルスクリーンのインタラクティブなモバイル広告を、標準的なモバイルディスプレイ広告よりも3倍長く見ていることがわかりました。また、フルスクリーン広告のブランド想起率は、通常のモバイルディスプレイ広告の3～4倍であることがわかりました。</p><p>今日のテクノロジーを使えば、広告主は、より高い注目度、より長いエンゲージメント、そしてブランドと人々の間のより有意義なつながりをもたらす、より良い広告体験を作り出すことができます。</p></div></div></div></div>		</div>
 				</div>
 					</div>
 		</div>
@@ -697,7 +697,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-339e7b2 elementor-widget elementor-widget-tp-image-factory" data-id="339e7b2" data-element_type="widget" data-widget_type="tp-image-factory.default">
 				<div class="elementor-widget-container">
-			<div id="plus64835d98e103a" class="pt-plus-animated-image-wrapper      " ><div class="animated-image-parallax   " ><div class="pt_plus_animated_image bg-image64835d98e1035 text-center  "  >
+			<div id="plus649aeeb448ee5" class="pt-plus-animated-image-wrapper      " ><div class="animated-image-parallax   " ><div class="pt_plus_animated_image bg-image649aeeb448ee1 text-center  "  >
 							<figure class="     "  >
 								<div class="vc_single_image-wrapper   "><img decoding="async" width="711" height="1465" src="https://www.mobkoi.co.jp/wp-content/uploads/2022/06/BAD-AD_Creative.png" class="attachment-full size-full wp-image-23715" alt="" srcset="https://www.mobkoi.co.jp/wp-content/uploads/2022/06/BAD-AD_Creative.png 711w, https://www.mobkoi.co.jp/wp-content/uploads/2022/06/BAD-AD_Creative-146x300.png 146w, https://www.mobkoi.co.jp/wp-content/uploads/2022/06/BAD-AD_Creative-497x1024.png 497w" sizes="(max-width: 711px) 100vw, 711px" /></div>						
 							</figure>
@@ -720,7 +720,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-339e7b2 elementor-widget elementor-widget-tp-image-factory" data-id="339e7b2" data-element_type="widget" data-widget_type="tp-image-factory.default">
 				<div class="elementor-widget-container">
-			<div id="plus64835d98e383b" class="pt-plus-animated-image-wrapper      " ><div class="animated-image-parallax   " ><div class="pt_plus_animated_image bg-image64835d98e3834 text-center  "  >
+			<div id="plus649aeeb44b5bc" class="pt-plus-animated-image-wrapper      " ><div class="animated-image-parallax   " ><div class="pt_plus_animated_image bg-image649aeeb44b5b8 text-center  "  >
 							<figure class="     "  >
 								<div class="vc_single_image-wrapper   "><img decoding="async" width="711" height="1465" src="https://www.mobkoi.co.jp/wp-content/uploads/2022/06/GOOD-AD_Creative.png" class="attachment-full size-full wp-image-23716" alt="" srcset="https://www.mobkoi.co.jp/wp-content/uploads/2022/06/GOOD-AD_Creative.png 711w, https://www.mobkoi.co.jp/wp-content/uploads/2022/06/GOOD-AD_Creative-146x300.png 146w, https://www.mobkoi.co.jp/wp-content/uploads/2022/06/GOOD-AD_Creative-497x1024.png 497w" sizes="(max-width: 711px) 100vw, 711px" /></div>						
 							</figure>
@@ -752,11 +752,11 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-c133bd5 elementor-widget elementor-widget-heading" data-id="c133bd5" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Full-screen, interactive mobile ads #FTW</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">フルスクリーン、インタラクティブなモバイル広告 #FTW</h2>		</div>
 				</div>
 				<div class="elementor-element elementor-element-c1bee0c text-left text--mobileleft elementor-widget elementor-widget-tp-adv-text-block" data-id="c1bee0c" data-element_type="widget" data-widget_type="tp-adv-text-block.default">
 				<div class="elementor-widget-container">
-			<div class="pt-plus-text-block-wrapper" ><div class="text_block_parallax"><div class="pt_plus_adv_text_block " ><div class="text-content-block"><p><span style="font-weight: 400">AR, VR, and other hyper-engaging forms of mobile advertising are becoming all the more common among brands that want to stand out in the clutter and increase performance. In fact, through a recent analysis of our client’s campaigns, we found that video ads with interactive features achieved a 53% boost in engagement compared to standard video ads. </span></p></div></div></div></div>		</div>
+			<div class="pt-plus-text-block-wrapper" ><div class="text_block_parallax"><div class="pt_plus_adv_text_block " ><div class="text-content-block"><p>AR、VR、その他のモバイル広告の形態は、雑踏の中で目立ち、パフォーマンスを向上させたいブランドの間で一般的になってきています。実際、当社のクライアントのキャンペーンを最近分析したところ、インタラクティブ機能を備えた動画広告は、標準的な動画広告と比較してエンゲージメントが53%向上していることがわかりました。</p></div></div></div></div>		</div>
 				</div>
 					</div>
 		</div>
@@ -768,11 +768,11 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-2d4e972 text-left text--mobileleft elementor-widget elementor-widget-tp-adv-text-block" data-id="2d4e972" data-element_type="widget" data-widget_type="tp-adv-text-block.default">
 				<div class="elementor-widget-container">
-			<div class="pt-plus-text-block-wrapper" ><div class="text_block_parallax"><div class="pt_plus_adv_text_block " ><div class="text-content-block"><p>Of course, the ideal format for interactive mobile ads is the full-screen interscroller, as it provides a larger canvas for creative innovation. This point was echoed by co-presenter and Mobkoi partner, Alyce Panico of the Luxe Collective Group during the Adweek session. Alyce went on to explain that her agency analyzed hundreds of campaigns and identified a few key units that consistently perform well for clients', including the interscroller, bespoke units, and vertical and in-line video. Moreover, she emphasized that creatives with clear directives and KPIs are sure winners.</p></div></div></div></div>		</div>
+			<div class="pt-plus-text-block-wrapper" ><div class="text_block_parallax"><div class="pt_plus_adv_text_block " ><div class="text-content-block"><p>もちろん、インタラクティブなモバイル広告の理想的なフォーマットは、より独創的な空間を作れる、より大きなキャンバスを提供するフルスクリーンのインタースクローラー型です。この点は、Adweekのセッションで、共同プレゼンターでありMobkoiのパートナーであるLuxe Collective GroupのAlyce Panicoも同じことを述べています。Alyceは、彼女の会社が何百ものキャンペーンを分析し、インタースクローラー、オーダーメイドユニット、垂直およびインラインビデオなど、クライアントにとって常に良い結果をもたらすいくつかのキーユニットを特定したと説明しました。さらに、明確な指示とKPIを持つクリエイティブは、確実に他を凌駕する存在になると強調した。</p></div></div></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-c3915c2 text-left text--mobileleft elementor-widget elementor-widget-tp-adv-text-block" data-id="c3915c2" data-element_type="widget" data-widget_type="tp-adv-text-block.default">
 				<div class="elementor-widget-container">
-			<div class="pt-plus-text-block-wrapper" ><div class="text_block_parallax"><div class="pt_plus_adv_text_block " ><div class="text-content-block"><p><strong><span style="color: #24326f">WHAT IS THE INTERSCROLLER?</span><br /></strong>Interscrollers are ads that reveal the ad content as the reader scrolls down the visited page. When the user scrolls to reveal 85% of the placement, it can snap to take over the entire screen. The user can opt out of the screen simply by scrolling to dismiss the ad.</p></div></div></div></div>		</div>
+			<div class="pt-plus-text-block-wrapper" ><div class="text_block_parallax"><div class="pt_plus_adv_text_block " ><div class="text-content-block"><p><strong><span style="color: #24326f">インタースクローラーとは何なのか?</span><br /></strong>インタースクローラーとは、訪問したページを読者がスクロールすると広告コンテンツが現れる広告のことです。ユーザーがスクロールして配置の85%を明らかにすると、画面全体を覆うようにスナップすることができます。ユーザーはスクロールするだけで広告が表示されなくなり、画面からオプトアウトすることができます。</p></div></div></div></div>		</div>
 				</div>
 					</div>
 		</div>
@@ -780,7 +780,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-db67d69 elementor-widget elementor-widget-tp-video-player" data-id="db67d69" data-element_type="widget" data-widget_type="tp-video-player.default">
 				<div class="elementor-widget-container">
-			<div class="pt_plus_video-box-shadow video_player64835d990674e   creative-mask-media" ><div class="pt_plus_video_player  not-touch   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64835d990674e" src="https://player.vimeo.com/video/779249502?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
+			<div class="pt_plus_video-box-shadow video_player649aeeb463d20   creative-mask-media" ><div class="pt_plus_video_player  not-touch   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player649aeeb463d20" src="https://player.vimeo.com/video/779249502?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
 				</div>
 					</div>
 		</div>
@@ -792,15 +792,15 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-b459b8e elementor-widget elementor-widget-heading" data-id="b459b8e" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Steps to start winning more attention on mobile</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">モバイルでより多くの注目を集めるために始めるべきステップ</h2>		</div>
 				</div>
 				<div class="elementor-element elementor-element-cb94a55 text-left text--mobileleft elementor-widget elementor-widget-tp-adv-text-block" data-id="cb94a55" data-element_type="widget" data-widget_type="tp-adv-text-block.default">
 				<div class="elementor-widget-container">
-			<div class="pt-plus-text-block-wrapper" ><div class="text_block_parallax"><div class="pt_plus_adv_text_block " ><div class="text-content-block"><p><span style="font-weight: 400">In summary of our Adweek session, the following are key steps advertisers should take to create better mobile ads and rise to the top in the attention economy. </span></p></div></div></div></div>		</div>
+			<div class="pt-plus-text-block-wrapper" ><div class="text_block_parallax"><div class="pt_plus_adv_text_block " ><div class="text-content-block"><p>Adweekのセッションのまとめとして、より良いモバイル広告を作成し、アテンションエコノミーでトップに立つために広告主が取るべき重要なステップは以下の通りです。</p></div></div></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-7dd20fd elementor-widget elementor-widget-tp-process-steps" data-id="7dd20fd" data-element_type="widget" data-widget_type="tp-process-steps.default">
 				<div class="elementor-widget-container">
-			<div id="proste64835d990ebba" class="tp-process-steps-widget style_1     "  data-connection="" data-eventtype=""><div class="tp-process-steps-wrapper elementor-repeater-item-91142c3 elementor-ps-content-0 " data-index="0"><div class="tp-ps-left-imt "><span class="tp-ps-icon-img "><i aria-hidden="true" class="fas fa-star"></i></span><div class="tp-ps-dc number_normal"></div></div><div class="tp-ps-right-content"><span class="tp-ps-content"><h4 class="tp-pro-step-title">Define what success looks like and align on expectations:</h4> <div class="tp-pro-step-desc"> <p>If you want to build hyper-engaging mobile ads, the first step is determining and aligning on campaign goals. Defining goals will help you map out the path your consumers will take from the first interaction to the conversion. This path will inform your ad creative, and time frame of the campaign, and allow you to track your results more effectively.</p> </div></span></div></div><div class="tp-process-steps-wrapper elementor-repeater-item-a2909c9 elementor-ps-content-1 " data-index="1"><div class="tp-ps-left-imt "><span class="tp-ps-icon-img "><i aria-hidden="true" class="fas fa-star"></i></span><div class="tp-ps-dc number_normal"></div></div><div class="tp-ps-right-content"><span class="tp-ps-content"><h4 class="tp-pro-step-title">Think about ads as experiences:</h4> <div class="tp-pro-step-desc"> <p><span style="font-weight: 400">Don’t be in the business of creating ads. Instead, focus on entertaining and delighting your audience with unique experiences that stand out in the clutter. Remember, interactivity is the key to boosting engagement. </span></p> </div></span></div></div><div class="tp-process-steps-wrapper elementor-repeater-item-1dcf845 elementor-ps-content-2 " data-index="2"><div class="tp-ps-left-imt "><span class="tp-ps-icon-img "><i aria-hidden="true" class="fas fa-star"></i></span><div class="tp-ps-dc number_normal"></div></div><div class="tp-ps-right-content"><span class="tp-ps-content"><h4 class="tp-pro-step-title">Find the right partners to execute:</h4> <div class="tp-pro-step-desc"> <p><span style="font-weight: 400">Collaborate with partners that have already done the legwork to make your ad experiences a reality. Our expertise at MOBKOI is </span><i><span style="font-weight: 400">tech-enabled </span></i><span style="font-weight: 400">mobile ad innovation. We have spent nearly a decade honing our craft and know the right technologies and techniques that work on the mobile platform (so you don’t have to).  </span></p> </div></span></div></div><div class="tp-process-steps-wrapper elementor-repeater-item-c0cbf33 elementor-ps-content-3 " data-index="3"><div class="tp-ps-left-imt "><span class="tp-ps-icon-img "><i aria-hidden="true" class="fas fa-star"></i></span><div class="tp-ps-dc number_normal"></div></div><div class="tp-ps-right-content"><span class="tp-ps-content"><h4 class="tp-pro-step-title">Learn and iterate:</h4> <div class="tp-pro-step-desc"> <p><span style="font-weight: 400">In order to innovate, it is critical that advertisers have the right reporting mechanisms in place to quickly and easily analyze performance as campaigns run. Moreover, advertisers should look beyond viewability to more powerful and actionable metrics like attention to truly understand how ads are resonating and driving business outcomes. </span></p> </div></span></div></div></div>		</div>
+			<div id="proste649aeeb46c2f5" class="tp-process-steps-widget style_1     "  data-connection="" data-eventtype=""><div class="tp-process-steps-wrapper elementor-repeater-item-91142c3 elementor-ps-content-0 " data-index="0"><div class="tp-ps-left-imt "><span class="tp-ps-icon-img "><i aria-hidden="true" class="fas fa-star"></i></span><div class="tp-ps-dc number_normal"></div></div><div class="tp-ps-right-content"><span class="tp-ps-content"><h4 class="tp-pro-step-title">成功とはどのようなものか定義し、期待に沿うようにする：</h4> <div class="tp-pro-step-desc"> <p>エンゲージメントの高いモバイル広告を作りたいなら、まずはキャンペーンの目標を決め、それに沿って行動することが大切です。目標を設定することで、消費者が最初のインタラクションからコンバージョンに至るまで、どのような経路をたどるのかを明確にすることができます。この経路は、広告クリエイティブやキャンペーンの時間枠に反映され、より効果的に結果を追跡できるようになります。</p> </div></span></div></div><div class="tp-process-steps-wrapper elementor-repeater-item-a2909c9 elementor-ps-content-1 " data-index="1"><div class="tp-ps-left-imt "><span class="tp-ps-icon-img "><i aria-hidden="true" class="fas fa-star"></i></span><div class="tp-ps-dc number_normal"></div></div><div class="tp-ps-right-content"><span class="tp-ps-content"><h4 class="tp-pro-step-title">広告を体験として考える：</h4> <div class="tp-pro-step-desc"> <p>広告を作ることが仕事ではありません。その代わりに、雑踏の中で際立つユニークな体験でオーディエンスを楽しませ、喜ばせることに集中しましょう。インタラクティビティは、エンゲージメントを高めるための鍵であることを忘れないでください。</p> </div></span></div></div><div class="tp-process-steps-wrapper elementor-repeater-item-1dcf845 elementor-ps-content-2 " data-index="2"><div class="tp-ps-left-imt "><span class="tp-ps-icon-img "><i aria-hidden="true" class="fas fa-star"></i></span><div class="tp-ps-dc number_normal"></div></div><div class="tp-ps-right-content"><span class="tp-ps-content"><h4 class="tp-pro-step-title">実行するための適切なパートナーを見つける：</h4> <div class="tp-pro-step-desc"> <p>あなたの広告体験を実現するために、すでに足で稼いだパートナーとのコラボレーションを実現しましょう。MOBKOIの専門性は、テクノロジーを駆使したモバイル広告の革新です。私たちは、10年近くかけて技術を磨き、モバイルプラットフォームで機能する正しいテクノロジーとテクニックを知っています（だから、あなたはその必要がないのです）。</p> </div></span></div></div><div class="tp-process-steps-wrapper elementor-repeater-item-c0cbf33 elementor-ps-content-3 " data-index="3"><div class="tp-ps-left-imt "><span class="tp-ps-icon-img "><i aria-hidden="true" class="fas fa-star"></i></span><div class="tp-ps-dc number_normal"></div></div><div class="tp-ps-right-content"><span class="tp-ps-content"><h4 class="tp-pro-step-title">学び、繰り返す：</h4> <div class="tp-pro-step-desc"> <p>イノベーションを起こすためには、広告主がキャンペーンの実行中に迅速かつ容易にパフォーマンスを分析できる適切なレポートメカニズムを導入することが重要です。さらに、広告主は、広告がどのように反響し、ビジネス成果をもたらしているかを真に理解するために、ビューアビリティだけでなく、アテンションのようなより強力で実用的な指標に目を向けるべきです。</p> </div></span></div></div></div>		</div>
 				</div>
 					</div>
 		</div>
@@ -812,14 +812,14 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-3ef2c36 elementor-widget elementor-widget-heading" data-id="3ef2c36" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<p class="elementor-heading-title elementor-size-default">Reach out to one of our experts to learn more about how we can help you build your next mobile campaign.</p>		</div>
+			<p class="elementor-heading-title elementor-size-default">お客様のモバイルキャンペーンをどのようにサポートできるか、当社のエキスパートが詳しくご説明します。</p>		</div>
 				</div>
 				<div class="elementor-element elementor-element-795e120 elementor-align-center e-transform elementor-widget elementor-widget-button" data-id="795e120" data-element_type="widget" data-settings="{&quot;_transform_translateX_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:-5,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="mailto:sales@mobkoi.com" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-xs" href="mailto:sales@mobkoi.com">
 						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">CONTACT SALES</span>
+						<span class="elementor-button-text">お問い合わせ</span>
 		</span>
 					</a>
 		</div>
@@ -852,7 +852,7 @@
 		
 			</item>
 		<item>
-		<title>Take your NFT Campaign to the next level</title>
+		<title>NFT活用を次のステージへ</title>
 		<link>https://www.mobkoi.co.jp/take-your-nft-campaign-to-the-next-level/</link>
 		
 		<dc:creator><![CDATA[Alison Hoffman - Marketing Manager]]></dc:creator>
@@ -861,7 +861,7 @@
 		<category><![CDATA[ブログ]]></category>
 		<guid isPermaLink="false">https://mobkoimigration.wpcomstaging.com/?p=25863</guid>
 
-					<description><![CDATA[While NFTs have been around for years, the novel technology has only recently gained mainstream traction. As such, there are three critical components of a successful NFT launch: ]]></description>
+					<description><![CDATA[何年も前から存在するNFTですが。この斬新な技術が主流になったのはごく最近のことです。NFTの発売を成功させるためには、3つの重要な要素があります： ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="25863" class="elementor elementor-25863">
 									<section class="elementor-section elementor-top-section elementor-element elementor-element-b8b27b8 elementor-section-height-min-height elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="b8b27b8" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
 							<div class="elementor-background-overlay"></div>
@@ -879,7 +879,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-260c269 elementor-widget elementor-widget-heading" data-id="260c269" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Take your NFT Campaign to the next level</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">NFT活用を次のステージへ</h2>		</div>
 				</div>
 				<div class="elementor-element elementor-element-de1d79c elementor-widget elementor-widget-tp-smooth-scroll" data-id="de1d79c" data-element_type="widget" data-widget_type="tp-smooth-scroll.default">
 				<div class="elementor-widget-container">
@@ -904,7 +904,7 @@
 				<div class="elementor-element elementor-element-2c5dafb elementor-mobile-align-left elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="2c5dafb" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://www.mobkoi.co.jp/resource_hub" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-xs" href="https://www.mobkoi.co.jp/resource_hub">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">BLOG HOME</span>
 		</span>
@@ -926,18 +926,20 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-c0833f7 elementor-widget elementor-widget-heading" data-id="c0833f7" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<p class="elementor-heading-title elementor-size-default">Top brands, from <a href="https://www.voguebusiness.com/technology/the-vogue-business-nft-tracker/amp" style="color:#628aef;" target="_blank" rel="noopener">luxury fashion</a>  to <a href="https://www.qsrmagazine.com/technology/fast-food-brands-brave-nft-world" style="color:#628aef;" target="_blank" rel="noopener">fast food</a>, are testing NFTs as a new and interesting way to engage and transact with consumers. 
+			<p class="elementor-heading-title elementor-size-default"><a href="https://www.voguebusiness.com/technology/the-vogue-business-nft-tracker/amp" style="color:#628aef;" target="_blank" rel="noopener">ラグジュアリーブランド</a>  から <a href="https://www.qsrmagazine.com/technology/fast-food-brands-brave-nft-world" style="color:#628aef;" target="_blank" rel="noopener">ファストフード業界</a>までが、消費者と関わり、取引するための新たな方法として、NFTに熱視線を送っている昨今。
 
-<br><br>What is an NFT? In short, a Non-Fungible Token (NFT) is a digital asset that represents real-world objects like art, music, in-game items, and videos. They are bought and sold online, frequently with cryptocurrency or paired with a purchase of a physical product.<br><br>
+<br><br>そもそもNFTとは何なのでしょうか？<br><br>
 
-While NFTs have been around for years, the novel technology has only recently gained mainstream traction. As such, there are three critical components of a successful NFT launch: <br><br>
+簡単に言うと、Non-Fungible Token（NFT）は、アート、音楽、ゲーム内アイテム、ビデオなどの現実世界のオブジェクトを表すデジタル資産です。NFTはオンラインで売買され、暗号通貨を使ったり、物理的な製品の購入と組み合わせたりすることが多い。<br><br>
 
-1. A relevant and informed audience.<br>
-2. Educational content explaining what NFTs are and why they are worth buying. <br>
-3. Transparent reporting and insights for optimization.
-<br><br>
+何年も前から存在していたNFTですが。この斬新な技術が主流となったのはごく最近のことです。そのため、NFTの立ち上げを成功させるには3つの重要な要素があります： <br><br>
 
-For brands looking to offer NFTs as part of a digital campaign, the following are key creative and media best practices to ensure success. </p>		</div>
+1. 適切かつ十分な情報を持つ利用者<br>
+2. NFTとは何か、なぜ買う価値があるのかを説明する教育コンテンツ。<br>
+3. 最適化のための、透明性の高いレポートとインサイト<br><br>
+
+
+デジタルキャンペーンの一環としてNFTの提供を検討しているブランドにとって、成功を確実にするためのクリエイティブとメディアのベストプラクティスは以下の通りです。<br></p>		</div>
 				</div>
 					</div>
 		</div>
@@ -957,18 +959,18 @@ For brands looking to offer NFTs as part of a digital campaign, the following ar
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-b490a0b elementor-widget elementor-widget-heading" data-id="b490a0b" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Reach the right audiences where they are spending the most time</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">適切な観客が、最も時間を費やしている場所でリーチする</h2>		</div>
 				</div>
 				<div class="elementor-element elementor-element-27d1db6 elementor-widget elementor-widget-heading" data-id="27d1db6" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<p class="elementor-heading-title elementor-size-default">There is a lot to learn about the world of NFTs and the mobile web is where most people get their information. In fact, according to the latest research from <a href="https://www.statista.com/statistics/277125/share-of-website-traffic-coming-from-mobile-devices/" style="color:#628aef" target="_blank" rel="noopener">Statista</a>, consumers spend more than half of their online time browsing the web from their mobile phones. <br><br>
+			<p class="elementor-heading-title elementor-size-default">NFTの世界では学ぶべきことが多く、多くの人が情報を得るのはモバイルウェブである。実際、<a href="https://www.statista.com/statistics/277125/share-of-website-traffic-coming-from-mobile-devices/" style="color:#628aef" target="_blank" rel="noopener">Statistaの最新調査</a>によると、消費者はオンライン利用時間の半分以上を携帯電話からのウェブ閲覧に費やしています。
 
-A contextually targeted mobile web campaign is a great avenue to reach consumers who are reading about NFTs with a high potential to engage and make a purchase. Whether you are looking to reach NFT and Crypto enthusiasts or broader tech-savvy audiences, contextual targeting will ensure you reach the right people in the places where they are most engaged. 
+文脈をターゲットにしたモバイル・ウェブ・キャンペーンは、NFTの情報を読んでいる消費者の関心を引き、購入に至る可能性の高い消費者にリーチする絶好の手段です。NFTやCryptoの熱狂的なファンであれ、技術に精通した幅広いオーディエンスであれ、コンテキスト・ターゲティングは、彼らが最も関心を寄せている場所で適切な人々に確実にリーチします。
 </p>		</div>
 				</div>
 				<div class="elementor-element elementor-element-752f3b9 elementor-widget elementor-widget-tp-clients-listout" data-id="752f3b9" data-element_type="widget" data-widget_type="tp-clients-listout.default">
 				<div class="elementor-widget-container">
-			<div id="pt-plus-clients-post-list" class="clients-list post64835d9932819  list-carousel-slick client-style-1 "   data-slider_direction="false" data-slide_speed="1500" data-slider_desktop_column="5" data-steps_slide="1" data-slider_draggable="false" data-multi_drag="false" data-slider_infinite="true" data-slider_pause_hover="false" data-slider_adaptive_height="false" data-slider_animation="ease" data-slider_autoplay="true" data-autoplay_speed="1700" data-slider_tablet_column="3" data-tablet_steps_slide="1" data-slider_responsive_tablet="no" data-slider_mobile_column="3" data-mobile_steps_slide="1" data-slider_responsive_mobile="yes" data-mobile_slider_draggable="false" data-mobile_slider_infinite="true" data-mobile_slider_autoplay="true" data-mobile_autoplay_speed="1500" data-mobile_slider_dots="false" data-mobile_slider_arrows="false" data-mobile_slider_rows="1" data-mobile_center_mode="true"  data-mobile_center_padding="0" data-slider_dots="false" data-slider_dots_style="slick-dots " data-slider_arrows="false" data-slider_arrows_style=""  data-arrows_position=""  data-arrow_bg_color=""  data-arrow_icon_color=""  data-arrow_hover_bg_color=""  data-arrow_hover_icon_color=""  data-slider_center_mode="true"  data-center_padding="44"  data-scale_center_slide="0.8"  data-scale_normal_slide="0.6"  data-opacity_normal_slide="0.6"  data-slider_rows="1"  data-id="post64835d9932819" data-style="style-1"  data-enable-isotope="1"><div class="tp-row post-inner-loop    flex-wrap tp-align-items-center post64835d9932819"><div class="grid-item flex-column flex-wrap     "><article id="post-27624" class="post-27624 theplus_clients type-theplus_clients status-publish has-post-thumbnail hentry theplus_clients_cat-nft-blog">
+			<div id="pt-plus-clients-post-list" class="clients-list post649aeeb49266f  list-carousel-slick client-style-1 "   data-slider_direction="false" data-slide_speed="1500" data-slider_desktop_column="5" data-steps_slide="1" data-slider_draggable="false" data-multi_drag="false" data-slider_infinite="true" data-slider_pause_hover="false" data-slider_adaptive_height="false" data-slider_animation="ease" data-slider_autoplay="true" data-autoplay_speed="1700" data-slider_tablet_column="3" data-tablet_steps_slide="1" data-slider_responsive_tablet="no" data-slider_mobile_column="3" data-mobile_steps_slide="1" data-slider_responsive_mobile="yes" data-mobile_slider_draggable="false" data-mobile_slider_infinite="true" data-mobile_slider_autoplay="true" data-mobile_autoplay_speed="1500" data-mobile_slider_dots="false" data-mobile_slider_arrows="false" data-mobile_slider_rows="1" data-mobile_center_mode="true"  data-mobile_center_padding="0" data-slider_dots="false" data-slider_dots_style="slick-dots " data-slider_arrows="false" data-slider_arrows_style=""  data-arrows_position=""  data-arrow_bg_color=""  data-arrow_icon_color=""  data-arrow_hover_bg_color=""  data-arrow_hover_icon_color=""  data-slider_center_mode="true"  data-center_padding="44"  data-scale_center_slide="0.8"  data-scale_normal_slide="0.6"  data-opacity_normal_slide="0.6"  data-slider_rows="1"  data-id="post649aeeb49266f" data-style="style-1"  data-enable-isotope="1"><div class="tp-row post-inner-loop    flex-wrap tp-align-items-center post649aeeb49266f"><div class="grid-item flex-column flex-wrap     "><article id="post-27624" class="post-27624 theplus_clients type-theplus_clients status-publish has-post-thumbnail hentry theplus_clients_cat-nft-blog">
 	<div class="client-post-content">
 		<div class="client-content-logo">
 		<div>	<div class="client-featured-logo">
@@ -1060,15 +1062,15 @@ A contextually targeted mobile web campaign is a great avenue to reach consumers
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-c01ac09 elementor-widget elementor-widget-heading" data-id="c01ac09" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Leverage creative formats designed for education and interaction</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">教育と交流のためにデザインされたクリエイティブなフォーマットを活用する</h2>		</div>
 				</div>
 				<div class="elementor-element elementor-element-ac8cb12 elementor-widget elementor-widget-heading" data-id="ac8cb12" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<p class="elementor-heading-title elementor-size-default">An NFT campaign might require more messaging than a standard brand or product awareness campaign. <br><br>
+			<p class="elementor-heading-title elementor-size-default">NFTキャンペーンでは、標準的なブランドや製品の認知度向上キャンペーンよりも多くのメッセージが必要になる場合があります。<br><br>
 
-Full-screen mobile ad formats offer brands more real estate to design creatives for education and interaction. Bespoke units with content cards or sophisticated dress-an-avatar functionality, for example, are ideal creatives that consumers can interact with to explore NFTs in more depth. <br><br>
+フルスクリーンのモバイル広告フォーマットは、ブランドが教育やインタラクションのためのクリエイティブをデザインするためのより多くの領域を提供します。例えば、コンテンツカードや洗練されたドレスアバター機能を備えた特注ユニットは、消費者がNFTをより深く探求するためにインタラクションできる理想的なクリエイティブです。<br><br>
 
-Our team of creative maestros has the data and expertise to execute the best formats and creative functionality for impactful NFT promotion.
+当社のクリエイティブ・マエストロ・チームは、インパクトのあるNFTプロモーションのために最適なフォーマットとクリエイティブ機能を実行するためのデータと専門知識を持っています。
 </p>		</div>
 				</div>
 					</div>
@@ -1081,23 +1083,21 @@ Our team of creative maestros has the data and expertise to execute the best for
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-743285c elementor-widget elementor-widget-heading" data-id="743285c" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">OPTIMIZE WITH TRANSPARENT AND GRANULAR REPORTING 
-</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">透明性が高く、更新頻度が多い報告を元に、常時最適化していく</h2>		</div>
 				</div>
 				<div class="elementor-element elementor-element-395cc11 elementor-widget elementor-widget-heading" data-id="395cc11" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<p class="elementor-heading-title elementor-size-default">With marketing budgets tightening in the face of economic uncertainty, it is more critical than ever that media dollars are accounted for and maximized. <br><br>
+			<p class="elementor-heading-title elementor-size-default">景気の先行き不透明感からマーケティング予算が逼迫する中、媒体費の計上と最大化がこれまで以上に重要になっている。
 
-Marketing stakeholders should have granular visibility into where ads are running and full-funnel metrics  – from viewability and attention to click-through. This level of transparency will ensure media spend is not wasted on undesirable impressions and campaign performance is optimized toward KPIs.</p>		</div>
+マーケティング関係者は、広告の掲載場所や、ビューアビリティやアテンションからクリックスルーまでのフルファネルメトリクスをきめ細かく可視化する必要がある。このレベルの透明性によって、メディア費用が望ましくないインプレッションで浪費されることがなくなり、キャンペーンのパフォーマンスがKPIに向けて最適化されます。<br><br></p>		</div>
 				</div>
 				<div class="elementor-element elementor-element-4bb2ee6 elementor-widget elementor-widget-heading" data-id="4bb2ee6" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<p class="elementor-heading-title elementor-size-default">Going above and beyond the industry standard, MOBKOI offers full site-list transparency and granular performance reporting for each and every campaign that goes out the door. With our custom-event reporting, for example, you can even uncover the NFTs in your collection with the highest engagement and click-through rates. 
-</p>		</div>
+			<p class="elementor-heading-title elementor-size-default">業界標準を超え、MOBKOIはサイトリストの完全な透明性ときめ細かなパフォーマンスレポートを提供します。例えば、カスタムイベントレポートでは、エンゲージメントとクリックスルー率が最も高いNFTを発見することができます。</p>		</div>
 				</div>
 				<div class="elementor-element elementor-element-0158cc6 elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-tp-cascading-image" data-id="0158cc6" data-element_type="widget" data-widget_type="tp-cascading-image.default">
 				<div class="elementor-widget-container">
-			<div class="pt_plus_animated_image cascading-block  wpb_single_image cascading_64835d993f603   "  ><div class="cascading-inner-loop "><div id="cascading64835d993f6190" class="cascading-image elementor-repeater-item-2cb0931 img64835d993f6100   "  ><div class="cascading-image-inner " ><div class="cascading-inner-content parallax-hover-1192684   not-link-content  " ><img width="531" height="1165" src="https://www.mobkoi.co.jp/wp-content/uploads/2022/10/NFT-Analytics_One-1.png" class="parallax_image" alt="" decoding="async" srcset="https://www.mobkoi.co.jp/wp-content/uploads/2022/10/NFT-Analytics_One-1.png 531w, https://www.mobkoi.co.jp/wp-content/uploads/2022/10/NFT-Analytics_One-1-137x300.png 137w, https://www.mobkoi.co.jp/wp-content/uploads/2022/10/NFT-Analytics_One-1-467x1024.png 467w" sizes="(max-width: 531px) 100vw, 531px" /></div></div></div><div id="cascading64835d993fb601" class="cascading-image elementor-repeater-item-4291728 img64835d993fb5e1   "  ><div class="cascading-image-inner " ><div class="cascading-inner-content parallax-hover-1190646   not-link-content  " ><img width="724" height="1165" src="https://www.mobkoi.co.jp/wp-content/uploads/2022/10/NFT-Analytics_Two-1.png" class="parallax_image" alt="" decoding="async" srcset="https://www.mobkoi.co.jp/wp-content/uploads/2022/10/NFT-Analytics_Two-1.png 724w, https://www.mobkoi.co.jp/wp-content/uploads/2022/10/NFT-Analytics_Two-1-186x300.png 186w, https://www.mobkoi.co.jp/wp-content/uploads/2022/10/NFT-Analytics_Two-1-636x1024.png 636w" sizes="(max-width: 724px) 100vw, 724px" /></div></div></div><div id="cascading64835d993ff1b2" class="cascading-image elementor-repeater-item-a327a6f img64835d993ff182   "  ><div class="cascading-image-inner " ><div class="cascading-inner-content parallax-hover-1170622   not-link-content  " ><img width="519" height="1165" src="https://www.mobkoi.co.jp/wp-content/uploads/2022/10/NFT-Analytics_Three-1.png" class="parallax_image" alt="" decoding="async" srcset="https://www.mobkoi.co.jp/wp-content/uploads/2022/10/NFT-Analytics_Three-1.png 519w, https://www.mobkoi.co.jp/wp-content/uploads/2022/10/NFT-Analytics_Three-1-134x300.png 134w, https://www.mobkoi.co.jp/wp-content/uploads/2022/10/NFT-Analytics_Three-1-456x1024.png 456w" sizes="(max-width: 519px) 100vw, 519px" /></div></div></div><div id="cascading64835d99402843" class="cascading-image elementor-repeater-item-547ebcd img64835d99402823   "  ><div class="cascading-image-inner " ><div class="cascading-inner-content parallax-hover-1337584   not-link-content  " ><img width="521" height="1165" src="https://www.mobkoi.co.jp/wp-content/uploads/2022/10/NFT-Analytics_Four-1.png" class="parallax_image" alt="" decoding="async" srcset="https://www.mobkoi.co.jp/wp-content/uploads/2022/10/NFT-Analytics_Four-1.png 521w, https://www.mobkoi.co.jp/wp-content/uploads/2022/10/NFT-Analytics_Four-1-134x300.png 134w, https://www.mobkoi.co.jp/wp-content/uploads/2022/10/NFT-Analytics_Four-1-458x1024.png 458w" sizes="(max-width: 521px) 100vw, 521px" /></div></div></div><div id="cascading64835d99405f44" class="cascading-image elementor-repeater-item-e2ac427 img64835d99405f24   "  ><div class="cascading-image-inner " ><div class="cascading-inner-content parallax-hover-1405317   not-link-content  " ><img width="517" height="1165" src="https://www.mobkoi.co.jp/wp-content/uploads/2022/10/NFT-Analytics_Five-1.png" class="parallax_image" alt="" decoding="async" srcset="https://www.mobkoi.co.jp/wp-content/uploads/2022/10/NFT-Analytics_Five-1.png 517w, https://www.mobkoi.co.jp/wp-content/uploads/2022/10/NFT-Analytics_Five-1-133x300.png 133w, https://www.mobkoi.co.jp/wp-content/uploads/2022/10/NFT-Analytics_Five-1-454x1024.png 454w" sizes="(max-width: 517px) 100vw, 517px" /></div></div></div></div></div><style>.cascading-image.img64835d993f6100{top:auto;bottom:auto;left:-60%;right:0%;max-width:180px;margin: 0 auto;}.cascading-image.img64835d993fb5e1{top:auto;bottom:auto;left:-35%;right:0%;max-width:246px;margin: 0 auto;}.cascading-image.img64835d993ff182{top:auto;bottom:auto;left:0%;right:0%;max-width:180px;margin: 0 auto;}.cascading-image.img64835d99402823{top:-20%;bottom:auto;left:30%;right:0%;max-width:180px;margin: 0 auto;}.cascading-image.img64835d99405f24{top:0%;bottom:auto;left:60%;right:0%;max-width:180px;margin: 0 auto;}</style>		</div>
+			<div class="pt_plus_animated_image cascading-block  wpb_single_image cascading_649aeeb4a0062   "  ><div class="cascading-inner-loop "><div id="cascading649aeeb4a00740" class="cascading-image elementor-repeater-item-2cb0931 img649aeeb4a006a0   "  ><div class="cascading-image-inner " ><div class="cascading-inner-content parallax-hover-1133678   not-link-content  " ><img width="531" height="1165" src="https://www.mobkoi.co.jp/wp-content/uploads/2022/10/NFT-Analytics_One-1.png" class="parallax_image" alt="" decoding="async" srcset="https://www.mobkoi.co.jp/wp-content/uploads/2022/10/NFT-Analytics_One-1.png 531w, https://www.mobkoi.co.jp/wp-content/uploads/2022/10/NFT-Analytics_One-1-137x300.png 137w, https://www.mobkoi.co.jp/wp-content/uploads/2022/10/NFT-Analytics_One-1-467x1024.png 467w" sizes="(max-width: 531px) 100vw, 531px" /></div></div></div><div id="cascading649aeeb4a06351" class="cascading-image elementor-repeater-item-4291728 img649aeeb4a06321   "  ><div class="cascading-image-inner " ><div class="cascading-inner-content parallax-hover-1457462   not-link-content  " ><img width="724" height="1165" src="https://www.mobkoi.co.jp/wp-content/uploads/2022/10/NFT-Analytics_Two-1.png" class="parallax_image" alt="" decoding="async" srcset="https://www.mobkoi.co.jp/wp-content/uploads/2022/10/NFT-Analytics_Two-1.png 724w, https://www.mobkoi.co.jp/wp-content/uploads/2022/10/NFT-Analytics_Two-1-186x300.png 186w, https://www.mobkoi.co.jp/wp-content/uploads/2022/10/NFT-Analytics_Two-1-636x1024.png 636w" sizes="(max-width: 724px) 100vw, 724px" /></div></div></div><div id="cascading649aeeb4a09a02" class="cascading-image elementor-repeater-item-a327a6f img649aeeb4a099e2   "  ><div class="cascading-image-inner " ><div class="cascading-inner-content parallax-hover-1357482   not-link-content  " ><img width="519" height="1165" src="https://www.mobkoi.co.jp/wp-content/uploads/2022/10/NFT-Analytics_Three-1.png" class="parallax_image" alt="" decoding="async" srcset="https://www.mobkoi.co.jp/wp-content/uploads/2022/10/NFT-Analytics_Three-1.png 519w, https://www.mobkoi.co.jp/wp-content/uploads/2022/10/NFT-Analytics_Three-1-134x300.png 134w, https://www.mobkoi.co.jp/wp-content/uploads/2022/10/NFT-Analytics_Three-1-456x1024.png 456w" sizes="(max-width: 519px) 100vw, 519px" /></div></div></div><div id="cascading649aeeb4a0ce03" class="cascading-image elementor-repeater-item-547ebcd img649aeeb4a0cde3   "  ><div class="cascading-image-inner " ><div class="cascading-inner-content parallax-hover-1296431   not-link-content  " ><img width="521" height="1165" src="https://www.mobkoi.co.jp/wp-content/uploads/2022/10/NFT-Analytics_Four-1.png" class="parallax_image" alt="" decoding="async" srcset="https://www.mobkoi.co.jp/wp-content/uploads/2022/10/NFT-Analytics_Four-1.png 521w, https://www.mobkoi.co.jp/wp-content/uploads/2022/10/NFT-Analytics_Four-1-134x300.png 134w, https://www.mobkoi.co.jp/wp-content/uploads/2022/10/NFT-Analytics_Four-1-458x1024.png 458w" sizes="(max-width: 521px) 100vw, 521px" /></div></div></div><div id="cascading649aeeb4a0fe84" class="cascading-image elementor-repeater-item-e2ac427 img649aeeb4a0fe54   "  ><div class="cascading-image-inner " ><div class="cascading-inner-content parallax-hover-1219269   not-link-content  " ><img width="517" height="1165" src="https://www.mobkoi.co.jp/wp-content/uploads/2022/10/NFT-Analytics_Five-1.png" class="parallax_image" alt="" decoding="async" srcset="https://www.mobkoi.co.jp/wp-content/uploads/2022/10/NFT-Analytics_Five-1.png 517w, https://www.mobkoi.co.jp/wp-content/uploads/2022/10/NFT-Analytics_Five-1-133x300.png 133w, https://www.mobkoi.co.jp/wp-content/uploads/2022/10/NFT-Analytics_Five-1-454x1024.png 454w" sizes="(max-width: 517px) 100vw, 517px" /></div></div></div></div></div><style>.cascading-image.img649aeeb4a006a0{top:auto;bottom:auto;left:-60%;right:0%;max-width:180px;margin: 0 auto;}.cascading-image.img649aeeb4a06321{top:auto;bottom:auto;left:-35%;right:0%;max-width:246px;margin: 0 auto;}.cascading-image.img649aeeb4a099e2{top:auto;bottom:auto;left:0%;right:0%;max-width:180px;margin: 0 auto;}.cascading-image.img649aeeb4a0cde3{top:-20%;bottom:auto;left:30%;right:0%;max-width:180px;margin: 0 auto;}.cascading-image.img649aeeb4a0fe54{top:0%;bottom:auto;left:60%;right:0%;max-width:180px;margin: 0 auto;}</style>		</div>
 				</div>
 				<div class="elementor-element elementor-element-0642384 elementor-hidden-desktop elementor-widget elementor-widget-image" data-id="0642384" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
@@ -1105,7 +1105,7 @@ Marketing stakeholders should have granular visibility into where ads are runnin
 				</div>
 				<div class="elementor-element elementor-element-a89d74d elementor-widget elementor-widget-heading" data-id="a89d74d" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<p class="elementor-heading-title elementor-size-default">Only with MOBKOI can brands execute top-quality mobile ads at scale, with granular transparency into delivery and performance at every stage of the campaign lifecycle. 
+			<p class="elementor-heading-title elementor-size-default">MOBKOIを利用することで、ブランドはキャンペーンのライフサイクルのあらゆる段階で、配信とパフォーマンスのきめ細かな透明性を確保しながら、最高品質のモバイル広告を大規模に実施することができます。
 </p>		</div>
 				</div>
 					</div>
@@ -1118,14 +1118,14 @@ Marketing stakeholders should have granular visibility into where ads are runnin
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-3ef2c36 elementor-widget elementor-widget-heading" data-id="3ef2c36" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<p class="elementor-heading-title elementor-size-default">Contact us to help amplify your NFT Launch in an innovative way on mobile</p>		</div>
+			<p class="elementor-heading-title elementor-size-default">NFTの革新的な利用でモバイルプレゼンスを拡大したい方は、是非我々の専門チームにお問い合わせください</p>		</div>
 				</div>
 				<div class="elementor-element elementor-element-795e120 elementor-align-center e-transform elementor-widget elementor-widget-button" data-id="795e120" data-element_type="widget" data-settings="{&quot;_transform_translateX_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:-5,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="mailto:sales@mobkoi.com" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-xs" href="mailto:sales@mobkoi.com">
 						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">CONTACT SALES</span>
+						<span class="elementor-button-text">お問い合わせください</span>
 		</span>
 					</a>
 		</div>
