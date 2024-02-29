@@ -11,11 +11,11 @@
 	<atom:link href="https://www.mobkoi.co.jp/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.mobkoi.co.jp/</link>
 	<description></description>
-	<lastBuildDate>Wed, 21 Jun 2023 14:55:29 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 29 Feb 2024 14:42:34 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
 </channel>
 </rss>
